@@ -1,0 +1,10 @@
+body {
+    background-image: url(images/ta.jpg);
+    justify-content: center;
+    align-items: center;
+    background-repeat: non-repeat;
+    content: "fill";
+  position: absolute;
+  justify-content: center;
+    align-items: center;
+}
